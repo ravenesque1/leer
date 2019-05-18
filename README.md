@@ -1,6 +1,5 @@
 
-# Leer
-### To read.
+# Leer (to read)
 
 A simple proof-of-concept for the ingestion of the [OpenLibrary API](https://openlibrary.org/dev/docs/api/search). The app allows you to search the OpenLibrary database, and add items to a wishlist.
 
@@ -12,7 +11,7 @@ Setup is very simple. Clone the project, pod install, then go!
 
 ```
 git clone https://github.com/ravenesque1/leer.git
-cd Leer
+cd leer
 pod install
 open Leer.xcworkspace
 ```
