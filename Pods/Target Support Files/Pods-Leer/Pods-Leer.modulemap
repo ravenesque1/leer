@@ -1,6 +1,0 @@
-module Pods_Leer {
-  umbrella header "Pods-Leer-umbrella.h"
-
-  export *
-  module * { export * }
-}
